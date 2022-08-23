@@ -1,5 +1,4 @@
 # igraph_basics
-igraph basics
 igraph的一些简单操作以便初学者快速入门
 对于当下流行的NetworkX在分析大规模网络的基本结构特征时非常耗时。
 为此，我们将介绍另一款复杂网络建模工具-igraph，它在大规模网络上的速度要明显快于NetworkX。
